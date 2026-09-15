@@ -2,7 +2,7 @@
 
 # Hi, I'm Haris Prabu 👋
 
-### B.Tech IT Student | Software Developer | Data Science Enthusiast
+### B.Tech IT Student | Software Developer | IoT | Always Focused
 
 </div>
 
