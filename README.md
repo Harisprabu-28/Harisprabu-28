@@ -11,10 +11,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Undergraduate student pursuing **B.Tech in Information Technology**
-- 💻 Interested in **Software Development and Data Engineering**
-- 🐍 Knowledge of **Python, Java and C**
+- 💻 Interested in **Cloud Computing and Cyber Security**
+- 🐍 Knowledge of **Python**
 - 🌐 Experience in **Web Development**
-- 📊 Exploring **Data Science and Machine Learning**
+- 📊 Exploring **cloud security**
 - ☁️ Learning **Cloud Technologies**
 - 🔐 Interested in **Cybersecurity**
 - 🚀 Building projects and improving my technical skills
@@ -125,5 +125,5 @@ ESP32 • IoT • Sensors • GSM
 ✓ Software Development
 ✓ Backend Development
 ✓ Database Management Systems
-✓ Data Engineering
+✓ Cyber security
 ✓ Cloud Computing
